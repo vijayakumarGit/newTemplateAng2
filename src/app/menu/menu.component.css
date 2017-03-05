@@ -1,0 +1,15 @@
+.menutag {
+    margin-left: -10px;
+    margin-top: -10px;
+    width: 110%;
+    height: 50px;
+    background-color: blue;
+}
+.logout{
+    padding-left: 88%;
+    padding-top: 15px;
+}
+.menu{
+    padding-left: 10%;
+    z-index: -1;
+}
