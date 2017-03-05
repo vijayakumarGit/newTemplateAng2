@@ -10,5 +10,5 @@ import {Component} from '@angular/core';
 })
 
 export class MenuComponent{
-    localImg='./logout.png'
+  private LOGO = require("./logout.png");
 }
